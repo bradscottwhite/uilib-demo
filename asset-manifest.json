@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/uilib-demo/static/css/main.b77465a3.css",
+    "main.js": "/uilib-demo/static/js/main.0d9c89bc.js",
+    "static/js/787.42a1fac7.chunk.js": "/uilib-demo/static/js/787.42a1fac7.chunk.js",
+    "index.html": "/uilib-demo/index.html",
+    "main.b77465a3.css.map": "/uilib-demo/static/css/main.b77465a3.css.map",
+    "main.0d9c89bc.js.map": "/uilib-demo/static/js/main.0d9c89bc.js.map",
+    "787.42a1fac7.chunk.js.map": "/uilib-demo/static/js/787.42a1fac7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b77465a3.css",
+    "static/js/main.0d9c89bc.js"
+  ]
+}
