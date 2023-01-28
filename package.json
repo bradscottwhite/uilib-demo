@@ -1,6 +1,6 @@
 {
   "name": "uilib-test",
-  "homepage": "https://www.bradwhite.io/uilib-demo",
+  "homepage": "https://bradwhite.io/uilib-demo",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
